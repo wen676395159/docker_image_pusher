@@ -7,4 +7,4 @@
 openjdk:17.0.2-oraclelinux8
 nginx
 redis
-build_jdk:8u
+mcr.microsoft.com/dotnet/sdk
